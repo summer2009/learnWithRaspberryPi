@@ -1,8 +1,9 @@
 
-## Lession00: computer & coding
+# Lession00: computer & coding
 
+---
 
-+ 准备工作
+## 准备工作
 
   + 专用笔记本
 
@@ -14,7 +15,7 @@
 
 ---
 
-+ 内容
+## 内容
 
   + Key Words
   
@@ -26,78 +27,80 @@
 
 ---
 
-+ section 1: Key Words（分布在整个上课过程中，Review环节集中复习）
-      
-    + computer      
-    + code        
-    + scratch  
-    + mascot
-    + spirit    
-    + game
-  
- ---
-  
-  + section 2: curiosity 
-  
-    + who am I？
-    
-    + why you come here?
-    
-    + computers in this room (15 min)    
-  
-    + your nickname?
+## section 1: Key Words
 
-    + what is computer？
-  
-    + every one find computers ，write down it！
-  
-    + talk about the computers you find
-  
-    + gift 
-  
-    + imagination ，computers in the world   
-  
-  ---
-  
-  + section 3：computer & coding  (20 min)
+（分布在整个上课过程中，Review环节集中复习）
 
-    1. history of computer
-       
-       how big
-       
-    2. coding
-        
-        + game time————Hello！World!
-        
-        + spirit 
-          + color
-          + move
-   
-   ---
-          
-   + section 4：Review  (15 min)
-   
-  + home work：
++ computer
++ code
++ scratch  
++ mascot
++ spirit
++ game
+  
+---
+  
+## section 2: curiosity 
+  
+### who am I？
 
-    + mind map
++ why you come here?
 
-    + mascot
++ computers in this room (15 min)
+  
++ your nickname?
 
++ what is computer？
+  
++ every one find computers ，write down it！
+  
++ talk about the computers you find
+  
++ gift
+  
++ imagination ，computers in the world
+  
+---
+  
+## section 3：computer & coding  (20 min)
+
+1. history of computer
+   how big
+
+2. coding
+
+  + game time————Hello！World!
+
+  + spirit
+
+  + color
+
+  + move
 
 ---
 
-+ 能力训练
+## section 4：Review  (15 min)
+
++ home work：
+
++ mind map
+
++ mascot
+
+---
+
+## 能力训练
   
-  + 演讲沟通
++ 演讲沟通
   
-  + English
++ English
   
-  + 团队
++ 团队
   
-  + 思维导图
++ 思维导图
   
-  + 习惯
++ 习惯
   
-  + 想像力
++ 想像力
   
-  + 思维
++ 思维
