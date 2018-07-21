@@ -17,15 +17,20 @@
 
   + 团队沟通能力
 
-  + 演讲能力（中文、英文）
 
-+ scratch
+---
 
-  + scratch使用
+## scratch
+
++ scratch使用
 
   + scratch的基本操作
 
-  + coding的核心概念
+  + 使用Scratch开发程序
+
+---
+
+## coding的核心概念
 
   + 理解顺序执行
 
@@ -35,7 +40,9 @@
 
   + 面向对象的基本概念
 
-  + 综合技能培养
+---
+
+## 综合技能培养
 
   + curiosity
 
