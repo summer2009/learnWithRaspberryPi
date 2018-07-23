@@ -1,17 +1,17 @@
 
 # Lession00: computer & coding
 
----
+note:
 
-## 准备工作
+准备工作
 
-  + 专用笔记本
+1.专用笔记本
 
-  + 贴纸
+2.贴纸
 
-  + 彩色铅笔
+3.彩色铅笔
   
-  + 小奖品(徽章、专用印等)
+4.小奖品(徽章、专用印等)
 
 ---
 
@@ -29,36 +29,54 @@
 
 ## section 1: Key Words
 
-（分布在整个上课过程中，Review环节集中复习）
-
 + computer
 + code
 + scratch  
 + mascot
 + spirit
 + game
-  
+
+note:
+
+分布在整个上课过程中，Review环节集中复习
+
 ---
   
 ## section 2: curiosity 
   
 ### who am I？
 
-+ why you come here?
+--
 
-+ computers in this room (15 min)
-  
-+ your nickname?
+## why you come here?
 
-+ what is computer？
-  
-+ every one find computers ，write down it！
-  
-+ talk about the computers you find
-  
-+ gift
-  
-+ imagination ，computers in the world
+--
+
+## computers in this room (15 min)
+
+--
+
+## your nickname?
+
+--
+
+## what is computer？
+
+--
+
+## every one find computers ，write down it！
+
+--
+
+## talk about the computers you find
+
+--
+
+## gift
+
+--
+
+### imagination ，computers in the world
   
 ---
   
