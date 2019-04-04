@@ -44,6 +44,8 @@
   + [树莓派入手，记录系统烧录，ddns 动态域名，无线连接，系统备份等设置 ](http://hi.ktsee.com/67.html)
   
   + [git & Github](https://www.cnblogs.com/schaepher/p/5561193.html)
+  
+  + [树莓派打造FM电台](https://www.cnblogs.com/zhuxiaoxi/p/8213643.html)
 
 + The MagicPi 杂志
 
