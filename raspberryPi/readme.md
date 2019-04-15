@@ -31,7 +31,7 @@
         
     + pi3 安装64bit操作系统
     
-        +[安装64bit系统](https://blog.csdn.net/boling_cavalry/article/details/80716098)
+        + [安装64bit系统](https://blog.csdn.net/boling_cavalry/article/details/80716098)
 
 + 常用功能
   
