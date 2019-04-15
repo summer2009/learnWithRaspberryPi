@@ -28,6 +28,10 @@
         + [使用国内镜像源，下载更快](https://blog.csdn.net/sanguo112/article/details/71603438) 
     
         + [树莓派官方源列表](http://www.raspbian.org/RaspbianMirrors)
+        
+    + pi3 安装64bit操作系统
+    
+        +[安装64bit系统](https://blog.csdn.net/boling_cavalry/article/details/80716098)
 
 + 常用功能
   
