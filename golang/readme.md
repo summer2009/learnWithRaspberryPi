@@ -10,3 +10,5 @@
 + [Go Channel 详解](https://colobu.com/2016/04/14/Golang-Channels/)
 
 + [GoLang之协程](https://www.cnblogs.com/chenny7/p/4498322.html)
+
++ [深入golang之---goroutine并发控制与通信](https://zhuanlan.zhihu.com/p/36907022)
